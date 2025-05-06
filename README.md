@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to my GitHub Profile!👋</h1>
-  <img src="https://render.gitanimals.org/lines/Lexo" width="600" height="200"/>
+  <img src="https://render.gitanimals.org/lines/Lexo20" width="600" height="200"/>
 </div>
 
 <div align="center">
