@@ -1,8 +1,6 @@
-
 <div align="center">
-  <h1>👋 Welcome to my GitHub Profile!</h1>
-  <p>I'm a student at Creajeux, in video game programming <strong>C</strong>, and <strong>Lua</strong>. 
-  <img src="https://render.gitanimals.org/lines/Lexo20" width="600" height="200"/>
+  <h1>Welcome to my GitHub Profile!👋</h1>
+  <img src="https://render.gitanimals.org/lines/klaivertt" width="600" height="200"/>
 </div>
 
 <div align="center">
@@ -22,10 +20,3 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexo20&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
----
-
-🚀 **Projects & Contributions**
-
----
-
