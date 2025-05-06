@@ -1,6 +1,12 @@
 <div align="center">
   <h1>Welcome to my GitHub Profile!👋</h1>
-  <img src="https://render.gitanimals.org/lines/Lexo20" width="600" height="200"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Lexo20&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Lexo20"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 <div align="center">
