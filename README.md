@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to my GitHub Profile!👋</h1>
+  <h1>Welcome to my Profile!👋</h1>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=Lexo20&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-  ![Klaivert GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexo20&show_icons=true&theme=highcontrast&hide_border=true&card_width=460)
+  ![Lexo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexo20&show_icons=true&theme=highcontrast&hide_border=true&card_width=460)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexo20&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
